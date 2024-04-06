@@ -1,4 +1,4 @@
-### Oi, Eu sou o Thiago, desenvolvedor mobile 👋
+### Oi, Eu sou o Thiago, desenvolvedor de software 👋
 
 
 <div align="center">
